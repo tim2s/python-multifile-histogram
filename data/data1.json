@@ -1,0 +1,4 @@
+{"ProductionOrderNumber": "1", "PartCode":  "A", "AnalysisResult": "Added"}
+{"ProductionOrderNumber": "1", "PartCode":  "B", "AnalysisResult": "Removed"}
+{"ProductionOrderNumber": "1", "PartCode":  "B", "AnalysisResult": "Equal"}
+{"ProductionOrderNumber": "1", "PartCode":  "C", "AnalysisResult": "Removed"}
